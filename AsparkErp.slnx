@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AsparkErp/AsparkErp.Application/AsparkErp.Application.csproj" />
+  <Project Path="AsparkErp/AsparkErp.Domain/AsparkErp.Domain.csproj" />
+  <Project Path="AsparkErp/AsparkErp.Infrastructure/AsparkErp.Infrastructure.csproj" />
+  <Project Path="AsparkErp/AsparkErp.WebAPI/AsparkErp.WebAPI.csproj" />
+</Solution>
